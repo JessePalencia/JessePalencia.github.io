@@ -1,6 +1,6 @@
-/* 
+/*
 
-Moonlight Template 
+Moonlight Template
 
 https://templatemo.com/tm-512-moonlight
 
@@ -10,7 +10,7 @@ https://templatemo.com/tm-512-moonlight
   50% {
     opacity: 1;
   }
-  
+
   100% {
     opacity: 0;
   }
@@ -317,6 +317,7 @@ nav a:hover::before {
 }
 
 
+
 .main-btn a:hover {
 	background-color: #fff;
 	color: #232323!important;
@@ -339,7 +340,7 @@ nav a:hover::before {
 }
 
 .first-content h2 {
-	font-size: 36px;
+	font-size: 20px;
 	text-transform: uppercase;
 	font-weight: 700;
 	color: #fff;
